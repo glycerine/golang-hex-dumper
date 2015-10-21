@@ -2,7 +2,7 @@
 // hexdump: a hexdumper utility written in Golang
 //
 // Copyright 2015 Jason E. Aten <j.e.aten -a-t- g-m-a-i-l dot c-o-m>
-// License: Apache 2.0
+// License: MIT
 */
 package hex
 
